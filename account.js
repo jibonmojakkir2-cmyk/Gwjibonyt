@@ -1,22 +1,22 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "JIBON TOPUP";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
 var telegram_channel_link = "telegram channel link";
-
+https://t.me/+tI6JSsmNFS83YmJl
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = "telegram group link";https://t.me/+tI6JSsmNFS83YmJl
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = "YouTube channel link";
+var youtube_channel_link = "YouTube channel link";https://youtube.com/@primejibon-k8q?si=noSQrqxdQMj7ikLS
 
 // =======================================================
 // NOTIFICATION TEXT
